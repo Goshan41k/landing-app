@@ -93,11 +93,11 @@ body {
   text-align: center;
 }
 
-.art-image {
-  min-height: 100%;
-  width: 100%;
-  height: auto;
-}
+// .art-image {
+//   min-height: 100%;
+//   width: 100%;
+//   height: auto;
+// }
 
 .special-hr {
   width: 70%;
@@ -122,11 +122,6 @@ body {
   .nav-logo {
     font-size: 18px;
   }
-  .art-image {
-    opacity: 0;
-    width: 0px;
-    height: 0px;
-  }
 }
 
 @media all and(max-width: 630px) {
@@ -142,6 +137,8 @@ body {
   .nav-btn {
     font-size: 26px;
     font-weight: 700;
+    margin-left: 3px;
+    margin-right: 3px;
   }
   .nav-logo {
     font-size: 14px;

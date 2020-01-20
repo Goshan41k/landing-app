@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import headerBackground from "../images/headerBackground.png";
 import "../styles/header.scss";
+import "../styles/header.css";
 
 const Header = () => {
   useEffect(() => {
@@ -41,7 +41,6 @@ const Header = () => {
           maiores exercitationem.
         </p>
       </div>
-      {/* <img src={headerBackground} alt="#" className="art-image" /> */}
       <div className="art-image"></div>
     </>
   );

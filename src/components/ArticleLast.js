@@ -30,24 +30,57 @@ const ArticleLast = () => {
         <div className="information-right">
           <div className="inf-right-column">
             <h6 style={{ margin: "0px" }}>LEARN MORE</h6>
-            <p className="inf-right-p">How it works?</p>
-            <p className="inf-right-p">Meeting tools</p>
-            <p className="inf-right-p">Live striming</p>
-            <p className="inf-right-p">Contact method</p>
+            <a href="/" className="inf-right-a">
+              How it works?
+            </a>
+            <br />
+            <a href="/" className="inf-right-a">
+              Meeting tools
+            </a>
+            <br />
+            <a href="/" className="inf-right-a">
+              Live striming
+            </a>
+            <br />
+            <a href="/" className="inf-right-a">
+              Contact method
+            </a>
           </div>
           <div className="inf-right-column">
             <h6 style={{ margin: "0px" }}>ABOUT US</h6>
-            <p className="inf-right-p">About us</p>
-            <p className="inf-right-p">Features</p>
-            <p className="inf-right-p">Privacy police</p>
-            <p className="inf-right-p">Terms & Conditions</p>
+            <a href="/" className="inf-right-a">
+              About us
+            </a>
+            <br />
+            <a href="/" className="inf-right-a">
+              Features
+            </a>
+            <br />
+            <a href="/" className="inf-right-a">
+              Privacy police
+            </a>
+            <br />
+            <a href="/" className="inf-right-a">
+              Terms & Conditions
+            </a>
           </div>
           <div className="inf-right-column">
             <h6 style={{ margin: "0px" }}>SUPPORT</h6>
-            <p className="inf-right-p">F.A.Q.</p>
-            <p className="inf-right-p">Contact us</p>
-            <p className="inf-right-p">Live chat</p>
-            <p className="inf-right-p">Phone call</p>
+            <a href="/" className="inf-right-a">
+              F.A.Q.
+            </a>
+            <br />
+            <a href="/" className="inf-right-a">
+              Contact us
+            </a>
+            <br />
+            <a href="/" className="inf-right-a">
+              Live chat
+            </a>
+            <br />
+            <a href="/" className="inf-right-a">
+              Phone call
+            </a>
           </div>
         </div>
       </div>

@@ -1,0 +1,19 @@
+.art-image {
+  background-image: url(../images/headerBackground.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 500px;
+}
+
+@media all and (max-width: 768px) {
+  .art-image {
+    height: 450px;
+  }
+}
+
+@media all and (max-width: 500px) {
+  .art-image {
+    height: 300px;
+  }
+}

@@ -2,6 +2,8 @@
 
 https://langing-page-29639.firebaseapp.com/
 
+![alt text](https://i.ibb.co/B2z6YnM/landing-app.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
